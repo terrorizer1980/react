@@ -32,10 +32,6 @@ ansi-escape-sequences@^4.0.0:
   dependencies:
     array-back "^2.0.0"
 
-ansi-escapes@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/ansi-escapes/-/ansi-escapes-2.0.0.tgz#5bae52be424878dd9783e8910e3fc2922e83c81b"
-
 ansi-escapes@^3.0.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/ansi-escapes/-/ansi-escapes-3.1.0.tgz#f73207bb81207d75fd6c83f125af26eea378ca30"
@@ -665,14 +661,6 @@ keypress@~0.2.1:
 lodash.padend@^4.6.1:
   version "4.6.1"
   resolved "https://registry.yarnpkg.com/lodash.padend/-/lodash.padend-4.6.1.tgz#53ccba047d06e158d311f45da625f4e49e6f166e"
-
-log-update@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/log-update/-/log-update-2.1.0.tgz#ea37258b5354edb02e73b29190016c87d1c87141"
-  dependencies:
-    ansi-escapes "^2.0.0"
-    cli-cursor "^2.0.0"
-    wrap-ansi "^3.0.1"
 
 log-update@^2.3.0:
   version "2.3.0"
